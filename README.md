@@ -11,6 +11,7 @@ This contains mp3 files for UI and slot machine sound effects.
 
 
 *Note: 
+
 All SlotMachineExam assets are property of Anino Inc and may not be used for personal and commercial purposes.*
 
 
