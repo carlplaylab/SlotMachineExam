@@ -16,7 +16,6 @@ All SlotMachineExam assets are property of Anino Inc and may not be used for per
 
 **AUTHOR:**
 
-Lead Software Engr.
-Carl Joven
-carl.j@anino.co
+- Carl Joven (*carl.j@anino.co*), Lead Software Engr.
+- Michael Atienza, Sr. Artist
 
