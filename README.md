@@ -9,5 +9,14 @@ This contains mp3 files for UI and slot machine sound effects.
 
 
 
-*Note: 
-All SlotMachineExam assets are property of Anino Inc and may not be used for personal and commercial purposes.*
+**NOTE:**  
+
+All SlotMachineExam assets are property of Anino Inc and may not be used for personal and commercial purposes.
+
+
+**AUTHOR:**
+
+Lead Software Engr.
+Carl Joven
+carl.j@anino.co
+
